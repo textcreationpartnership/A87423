@@ -1,0 +1,153 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief vindication of the religion and governmet [sic] of New England against the presbyterie of Scotland together with some materiall observations worthy of consideration / by Lievtenant John Jubbes.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87423</idno>
+            <idno type="STC">Wing J1164</idno>
+            <idno type="STC">ESTC R179072</idno>
+            <idno type="EEBO-CITATION">42475073</idno>
+            <idno type="OCLC">ocm 42475073</idno>
+            <idno type="VID">151197</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87423)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151197)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2249:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief vindication of the religion and governmet [sic] of New England against the presbyterie of Scotland together with some materiall observations worthy of consideration / by Lievtenant John Jubbes.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>ca. 1649-1650]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Date of publication suggested by Wing (2nd ed.)</note>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Reproduction of original in: Newberry Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Presbyterianism --  Controversial literature --  Early works to 1800.</term>
+               <term>Church and state --  New England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:151197:1"/>
+            <head>A briefe vindication of the Religion and GOVERNMET OF NEVV ENGLAND Againſt the Presbyterie of SCOTLAND: Together with ſome materiall Obſervations worthy of Conſideration.</head>
+            <byline>
+               <hi>By Lievtenant Colonell</hi> JOHN JUBBES.</byline>
+            <p>
+               <seg rend="decorInit">A</seg>Lthough I was not Ignorant of the Court deſigne, both of K. <hi>Iames,</hi> as wel as the late King <hi>Charles</hi> to involve this Nation in extreame Ignorance and ſlavery, and in order thereunto had for that purpoſe ſettled ſuch Biſhops and heads of the Schooles of Vni<g ref="char:EOLhyphen"/>verſities, and Iudges, and heads of the Innes of Court, alſo as corrupted and perverted the truth of the divine Goſpell, Law, and word of Chriſt, as well as the Common and Civill Law and word of morallitie of the Nation alſo; Yet when the <hi>Scots</hi> began to make their party in <hi>England;</hi> as for Goſpel-Freedome and Liberty, and had entred our Country with an Army; I was not their friend therein, but greatly feared a horrid event of that miſerable beginning, for theſe reaſons.</p>
+            <pb n="2" facs="tcp:151197:2" rendition="simple:additions"/>
+            <p>Firſt, becauſe they did ſet their quarrell by Religion, to which it is conſiderable, that they that are deceived, drawn, and forc't into any Antichriſtian Religion, and unto any obedience on paine of the curſe, and of damnation, are oftentimes through Ignorance and ſlaviſh fear, as zealous (as is verified by the Papiſts and Turk alſo) (almoſt) as the truly valiant Chriſtian, that the ſaving Love of Chriſt conſtraineth.</p>
+            <p>Secondly, becauſe all Goſpel-Liberty, I ſay, and maintaine all; true Goſpel-Liberty is known by its unerring marks of equality, through an<g ref="char:EOLhyphen"/>ſwerableneſſe to each other in the Law; for a<g ref="char:EOLhyphen"/>voiding the cauſe of contention, and for the making ſober, and continuing all men in an e<g ref="char:EOLhyphen"/>quall, externall Peace, Freedome, and godly proſperity thereby, which muſt firſt be in order to the Catholike Faith, Love, and Peace inter<g ref="char:EOLhyphen"/>nall.</p>
+            <p>Thirdly, on the contrary, the debaucht, ſla<g ref="char:EOLhyphen"/>viſh, and beaſt-like ignorant condition of the generality of the inferiour, and common ſort of people of <hi>Scotland</hi> is ſuch, that the Turks and other Infidells doe much ſurpaſſe them, both in Freedome and morality. Therefore I conceive them a ſad preſident of Goſpel peace and liberty unto us.</p>
+            <p>Fourthly, the deep conjunction and unity of that Nation in themſelves, and their great wiſ<g ref="char:EOLhyphen"/>dome of uncredibleneſſe unto all others.</p>
+            <p>Fifthly, the aptneſſe of this Nation unto diſ<g ref="char:EOLhyphen"/>unity and careleſneſſe of its owne members, and credibleneſſe unto others, as have not only been
+<pb n="3" facs="tcp:151197:2" rendition="simple:additions"/>ever obſerved by other Nations; but lately ſuf<g ref="char:EOLhyphen"/>ficiently verified by our Invitations of the <hi>Scots.</hi> But when the late King had left the Par<g ref="char:EOLhyphen"/>liament, and levied warre againſt it, about halfe a year after, it pleaſed God that I raiſed a Company for the Parliament, and continued in<g ref="char:EOLhyphen"/>gaged both before, and in all the ſervice of the Earl of <hi>Mancheſter,</hi> and after in the new Modell, in all five years, in which time, according as I covenanted with the Lord at my firſt beginning, that as I was not then rich, ſo ſhould not theſe miſerable and unnaturall wars make me rich, and although I have ſince had as great meanes there<g ref="char:EOLhyphen"/>to, as moſt men have, yet can I boaſt of nothing ſo much as of my being inabled to performe the ſame; And when I found that Wars were like to break forth again, and having receiv'd Chriſt in that his glorious office of mediation, did thereupon lay down my Commiſſion to labour therein, and accordingly have indeavoured for a Goſpel-accommodation unto all Intereſts, not according to the ſtreame of my own deſire, but to move all men (if it might be) to the glorious work of conſideration, and triall of all things of good and evill; that every one might be per<g ref="char:EOLhyphen"/>ſwaded in his owne Conſcience, and although I have not prevailed, yet if every one would have done the ſame, it could not have been a<g ref="char:EOLhyphen"/>voided no more then the glory and peace which my ſoule receives through my earneſt diſcharge of my duty, for which I was created; yet can I not but greatly take blame upon my ſelfe, for ſome bitterneſſe of Spirit vented by me, againſt
+<pb n="4" facs="tcp:151197:3"/>ſome precious men, &amp; my deareſt friends when I have thought them in the leaſt blame thereto; but having conſidered many ſad preſidents unto thoſe people that have gained a ſword, and upon their adverſaries credit have ſuffered them (ſuddenly) to ſhare with them therein again, muſt greatly condemne my paſſion and evill thereof. And one preſident of many I ſhal here lay down.</p>
+            <p>In the late great War of the Parliament and King <hi>Charles</hi> the ninth of France, (which yet exceeds not the memory of man) after the King and Lords had on both ſides deeply wearied the Nation, they then were able and cloſed up a bargain, that according to the ignorant deſires of the Common people (for peace ſake) that they ſhould ſubmit unto, and truſt the King with their Liberties, but that the Lords ſhould be free of all Taxes whatſoever ex<g ref="char:EOLhyphen"/>cept only that when the King ſhould go to War, that he ſhould command any of them a Warfare at their own coſt (as to their particular expence) by which their freedom and exemption from taxes they are ſo greatly inriched, that ſome of them have purchaſed &amp; gotten eſtats of 100000. pounds a year. Others to the value of 150000 l. a year, and yet the poor Peſants ſo called are at the charge of maintaining the moſt magnificent Court in the world, and at all times not fewer then 80000 men in Armes to inſlave and keep themſelves under, even more miſerable then many beaſts, but ſince the War between Spain &amp; them not le<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hen 160000 The charge of the Navy, the Marriage of the Kings Children and all other
+<pb n="5" facs="tcp:151197:3"/>Charges whatſoever, and beſides all this; that intereſt of people which firſt oppoſed the Crown notwithſtanding as large Acts of forgetfullneſſe and pardons as ever were, or could be made, there was maſſacred and ſlain to the number of 10000, ſoules in one night; and ſcores of thou<g ref="char:EOLhyphen"/>ſand vaſſalzed, ruined, and utterly captiv'd.</p>
+            <p>Why now ſhould Conſideration be wanting unto the Presbyterian that cauſed this war as wel as to the Independant; And ſeeing it is ſaid in the Scots Covenant that wee ſhall reforme our Re<g ref="char:EOLhyphen"/>ligion in Doctrine, Diſcipline and Worſhippe, according to the beſt reformed Churches: and alſo becauſe the Religion which is practiſed in every State is the ſeale of obedience unto bon<g ref="char:EOLhyphen"/>dage or freedom. Therefore I mayntaine that the Religion which is practiſed in <hi>New-England</hi> ought to be our patterne, becauſe you ſhall find that although it is as barren a Country as Scot<g ref="char:EOLhyphen"/>land is, which is now planted more then 200 miles in length, and yet that one ſhall not ſee a perſon there that begges his bread, or any to be drunk, or ſweare an Oath, or that is reputed a Whore-monger by the year through<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and like<g ref="char:EOLhyphen"/>wiſe, if any ſhall injure another, or ſhall but ſub<g ref="char:EOLhyphen"/>tilly over-reach his neighbour in bargaining, and that this be told unto the Church, reſtituti<g ref="char:EOLhyphen"/>on and ſatisfaction is made in love (even the firſt day) as alſo if a man be knowne to live in much Covetouſneſs, that hee is not holden worthy by the Church to beare any office there, or in the Common-wealth, and that you ſhall not ſee nor heare of one to be whipt in many moneths, or hanged in many years, will it not be ſaid of a truth God is there, and that this is the moſt
+<pb n="6" facs="tcp:151197:4"/>pure Religion, and peaceable Government of Chriſt (above all others that is yet pro<g ref="char:EOLhyphen"/>feſſed) and that I have ſufficiently proved the thing. But if this be not ſufficient, I beſeech all men to examine, if the nature of the Presbyterian Government of <hi>Scotland</hi> take more from their King then it adds unto the Miniſtry, ſo as the people gets neither knowledge or Freedom there<g ref="char:EOLhyphen"/>by, and to give you an unerring preſident, conſider what I ſaid in the beginning, and let any that knowes the nature of that Country judge and anſwer, if the debaucht ſlaviſh condition of the inferior and Common ſort of people in Scotland (which is continued by the tyes of Religion) be leſſe ſlaviſh and miſerable then the Turks or o<g ref="char:EOLhyphen"/>ther infidells.</p>
+            <p>And I ſay, if every Religion that is practiſed in any State, ought to be judged on to be of Chriſt or Antichriſt, accord<g ref="char:EOLhyphen"/>ing as it bringeth a ſober and godly Freedome with it, and that thee remony or forme of worſhip is not the ſubſtance, but righteouſneſs is the marke of Chriſt, And ſlavery which is the fruits of unrighteouſneſs the mark of the beaſt; Then I conceive no man will maintaine any thing in oppoſition hereunto, but if any ſhall be pleaſed to oppoſe the truth hereof, I ſhall in a Chriſtian way be ready to reply, provided we may hold to the true grounds of diſtinction, between good and evill; The nature of Chriſt and Antichriſt, ac<g ref="char:EOLhyphen"/>cording to Goſpel-warrant; and can it be conceived that when the debaucht perſon doe rightly conſider the perill of his ſoule by his trade of evill, as alſo that the cuſtome and trade of education in the dayes of thoſe: peoples youth do inlarge their hearts through Love (not by feare) hereunto, that he will not only ſay, that where the ſame government is proclaimed to be firmely eſtabliſhed, it ought to be im<g ref="char:EOLhyphen"/>braced above all others, and that it had been good for him to have been educated under ſuch a meanes of grace, but will petition, as alſo aſſiſt the honourable Parliament to eſtabliſh the like noble things with us.</p>
+            <pb n="7" facs="tcp:151197:4"/>
+            <p>And whereas ſome have been pleaſed to give out reports concerning ſome arrears which are holden by me, I have briefly laid downe the ſubſtance of my judgement to try<g ref="char:EOLhyphen"/>all againe. Firſt, I hold the pure word of God, and ſtrength of the Scriptures doe prove that God is the life, Motion, and being of all things (but all in Order) and as he did, ſo he doth create all things good, and no<g ref="char:EOLhyphen"/>thing evil. Secondly, that all good is that which proceeds from the perfect love of moderation, and the proper uſe of things according to Ggreements, by the wiſdome of God in Man, for the preſervation of Love, peace, and Admiration unto him the Creator. Thirdly, that all evill commeth of the imperfect love of immoderation, and the improper uſe of things contrary to agreement, by the wiſ<g ref="char:EOLhyphen"/>dome of God in Man, to the hindrance of Love, Peace and Admiration. Fourthly, that the true, Catholique, or uni<g ref="char:EOLhyphen"/>verſall faith of Jeſus Chriſt is to believe, that as God is our life, and being, ſo is he able, and will ſave to the ut<g ref="char:EOLhyphen"/>moſt all them that truſt in him. Fifthly, that this love of moderation (Mediation or Reconciliation) is the ſaving love of Chriſt, by which he had Communion with the Father before the world was, and by which the world was made, and is ſtill preſerved and continued. Sixthly, that this univerſall faith of Chriſt is firſt in order to his univerſal love (for faith ſhall ceaſe, but love ſhall endure.) Seventhly, that it is the nature of Chriſt by which we are ſaved, and although it is ſaid, there is no other name then the name of Jeſus only, by which we can be ſaved; it is true, for by his name we figure out his nature, and his name varies as the Languages do, beſides we may ſee Chriſt in the fruit and Actions of a Chriſtian; but doubt<g ref="char:EOLhyphen"/>leſſe not in him that prophanely and deſperately ſwears by it, and when his name and Nature goe together, then ſhall every knee bow, but if at his name only judge yee. Eightly, that underſtanding of God in man which proceeds onely from the Love of Moderation, for the proper uſe of things according to Agreement, is to be called Reaſon; and it is not the high conceit to work cu<g ref="char:EOLhyphen"/>rious
+<pb n="8" facs="tcp:151197:5" rendition="simple:additions"/>works; or ſpeak elegant words, nor yet the ſubtile Art to deſtroy one another, that is to be ſaid of Reaſon: for then the Wolfe, the Bee, the Spider, the Parrot ſhould be called rea<g ref="char:EOLhyphen"/>ſonable Creatures; And the height and excellencie thereof is to be meaſured, according as it extends it ſelf in a peaceable order, for the regulating and making of the moſt equall and juſt agreements. Now having received Chriſt as before, ſo walk I, or deſire to walke in him, and ſquare my reaſon as well as my actions by him, being at peace and in univerſall love with all men; but if any thing may be objected againſt any of this, or whatſoever elſe, I have or ſhall lay down, I doubt not but to give ſatisfaction either by a ſober anſwer of juſtification or ſudden acknowledgment of my error with much rejoycing; Now if at this and every ſeaſon all things ſtand, and are good according to the divine decree then ought every man (who hath but the preſent moment of time) to endeavour the preſervation thereof through the exerciſe of reaſon, of the love of moderation, &amp; for want whereof, things which are not ſhal deſtroy things which are, and becauſe all things may be lawful (yet not) at every ſeaſon expedi<g ref="char:EOLhyphen"/>ent, but now looking at the beſt viſible thing with us, I have free<g ref="char:EOLhyphen"/>ly taken the Ingagement, to be true and faithfull to the Common<g ref="char:EOLhyphen"/>wealth of <hi>England,</hi> without a King, or houſe of Lords; Touching which through God I ſhall not faintly endeavour to performe to the utmoſt; For although he that is a true Chriſtian by nature can readily lay down his life for the moſt righteous Peace and freedom unto the publique; yet ought he to know that in order to the beſt Thing, valour, and courage muſt not be abſent, and that Command of Chriſt that ſaith unto him, he that ſtriketh us on one cheek, we ſhould turn the other, hath referen<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e unto perſons, ſeaſons, time, and place, as I might inſtance many wayes by his own example, and that this is only to be done, where in reaſon it may convert into mercy, and as among ſuch as have partaken of the nature of Chriſt, and bear good will to the Goſpell (by which meekneſs we may build them up therein (it oftententimes ought to be) but this com<g ref="char:EOLhyphen"/>mand extends not to be practiſed by us unto the Turks and Infi<g ref="char:EOLhyphen"/>dels, or other the ſenſuall perſons of immoderat<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion, that have re<g ref="char:EOLhyphen"/>ceived Chriſt but nominally, to whom the true Chriſtian is odious; And as a good man is mercifull to his beaſt, ſo is it mercy <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in many Caſes to kill his beaſt, as when they grow fierce and mad, and deſtroy others, (aſwell as to ſuſtein the life of man who keepeth the ſheep from the wolves, and by his wiſdome and order preſerves and cauſeth them to increaſe and multiply) ſo is it mer<g ref="char:EOLhyphen"/>cy and righteouſneſs in the reaſonable true Chriſtians, to raiſe and exerciſe the ſword againſt the ſenſuall and immoderate perſons, aſ<g ref="char:EOLhyphen"/>well by war as in times of Peace, for the moſt publique Good.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:151197:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
